@@ -1,0 +1,9 @@
+package org.sid.entites;
+
+import java.io.Serializable;
+
+public class Contact implements Serializable {
+	
+	
+
+}

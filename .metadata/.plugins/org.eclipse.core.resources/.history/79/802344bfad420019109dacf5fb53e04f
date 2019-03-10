@@ -1,0 +1,5 @@
+package org.sid.entites;
+
+public class Contact {
+
+}
